@@ -1,23 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:02.707692
+#+DATE: 2015-08-30 20:34:03.218690
 #+TITLE: 佛說寶賢陀羅尼經
 #+PROPERTY: CBETA_ID T21n1285
 #+PROPERTY: ID KR6j0516
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1285
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6j0516_T_000-0353c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0516_T_001-0353c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1285¶
-
- 《佛說寶賢陀羅尼經》¶
+No. 1285¶
+《佛說寶賢陀羅尼經》¶
 ¶
-西天譯經三藏朝散大夫試光祿卿¶
-明教大師臣法賢奉　詔譯¶
+三藏法師¶
+法賢奉　詔譯¶
 
 如是我聞。一時佛在舍衛國祇樹給孤獨園。
 <pb:KR6j0516_T_001-0354a>¶
@@ -62,7 +61,7 @@ No.1285¶
 是時寶賢大夜叉主。說是陀羅尼已。復白佛¶
 言。世尊此陀羅尼。若有人依法持誦七遍。是¶
 人所作勝利皆得成就。又復有人於白月十¶
-五日潔淨持戒。一日三時焚沈檀香。誦此陀¶
+五日潔淨持戒。一日三時焚沈檀皆。誦此陀¶
 羅尼滿八千遍。是人隨願獲得金銀珍寶悉¶
 皆如意。爾時大夜叉主。說是陀羅尼已禮佛¶
 而退。¶

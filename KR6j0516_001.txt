@@ -1,23 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:02.707692
+#+DATE: 2015-08-30 20:34:03.866462
 #+TITLE: 佛說寶賢陀羅尼經
 #+PROPERTY: CBETA_ID T21n1285
 #+PROPERTY: ID KR6j0516
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1285
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0516_T_000-0353c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0516_T_001-0353c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1285¶
-
- 《佛說寶賢陀羅尼經》¶
+No. 1285¶
+《佛說寶賢陀羅尼經》¶
 ¶
-西天譯經三藏朝散大夫試光祿卿¶
-明教大師臣法賢奉　詔譯¶
+西天譯經三藏朝散大夫試光祿卿明教大師臣法賢奉　詔譯¶
 
 如是我聞。一時佛在舍衛國祇樹給孤獨園。
 <pb:KR6j0516_T_001-0354a>¶
